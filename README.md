@@ -1,6 +1,6 @@
 # Tribute Webpage 🌟
 
-
+  ![cat Image](cat.jpg)
 
 This repository contains the files for a tribute webpage that I created as part of my FreeCodeCamp certification. The webpage is dedicated to paying tribute to a person of great significance, and it showcases their accomplishments, contributions, and impact on society. The design of the webpage is simple yet elegant, aiming to provide a visually pleasing and informative experience for visitors.
 

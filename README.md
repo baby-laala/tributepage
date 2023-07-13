@@ -1,8 +1,8 @@
 # Tribute Webpage 🌟
-
-  ![cat Image](cat.jpg)
+![Intro Image](cat.jpg)
 
 This repository contains the files for a tribute webpage that I created as part of my FreeCodeCamp certification. The webpage is dedicated to paying tribute to a person of great significance, and it showcases their accomplishments, contributions, and impact on society. The design of the webpage is simple yet elegant, aiming to provide a visually pleasing and informative experience for visitors.
+
 
 ## 📷 Screenshots
 
@@ -23,6 +23,7 @@ Here are some screenshots of the tribute webpage:
 ## 📜 Table of Contents
 
 - [Introduction](#introduction)
+- [Demo](#demo)
 - [Features](#features)
 - [Usage](#usage)
 - [Conclusion](#conclusion)
@@ -30,6 +31,10 @@ Here are some screenshots of the tribute webpage:
 ## Introduction
 
 The tribute webpage is an interactive platform that celebrates the life and accomplishments of an influential figure. The webpage serves as a means to educate, inspire, and remember the contributions made by the person being honored. It combines visually appealing elements with informative content to engage the visitors and create a memorable experience.
+
+## Demo 🎉
+
+You can check out the live demo of the tribute webpage [here](https://baby-laala.github.io/tributepage/).
 
 ## Features
 
